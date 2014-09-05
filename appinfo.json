@@ -1,17 +1,18 @@
 {
-  "uuid": "6c9bfa7d-74b6-4104-a793-6d9287da95b7",
-  "shortName": "pebble",
-  "longName": "pebble",
-  "companyName": "MakeAwesomeHappen",
-  "versionCode": 1,
-  "versionLabel": "1.0.0",
-  "watchapp": {
-    "watchface": false
-  },
-  "appKeys": {
-    "dummy": 0
-  },
-  "resources": {
-    "media": []
-  }
+	"uuid": "226834ae-786e-4302-a52f-6e7efc9f990b",
+	"shortName": "TiPebble",
+	"longName": "TiPebble",
+	"companyName": "Matthew Congrove",
+	"versionCode": 1,
+	"versionLabel": "1.0.0",
+	"watchapp": {
+		"watchface": false
+	},
+	"appKeys": {
+		"messageA": 0,
+		"messageB": 1
+	},
+	"resources": {
+		"media": []
+	}
 }
