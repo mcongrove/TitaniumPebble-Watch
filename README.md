@@ -1,3 +1,3 @@
-# TiPebble Example - Pebble
+# TitaniumPebble Example - Watch
 
-Example Pebble application for the [TiPebble](https://github.com/mcongrove/TiPebble) module.
+Example Pebble application for the [TitaniumPebble](https://github.com/mcongrove/TitaniumPebble) module.
